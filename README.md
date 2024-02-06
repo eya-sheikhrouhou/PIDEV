@@ -3,7 +3,8 @@
 <p align="center">
   <img src="https://symfony.com/logos/symfony_black_03.png?v=5" width="200" title="Symfony Logo" alt="Symfony Logo">
   &nbsp; &nbsp; &nbsp; &nbsp;
- <img src="path/to/your/java-logo.png" width="200" title="Java Logo" alt="Java Logo">
+ <br>
+  <span>Java Application</span>
 </p>
 
 

@@ -1,7 +1,10 @@
-# PIDEV Project: Belyy Bump 
+# PIDEV Project: Belly Bump application
 
-![Symfony Logo](https://symfony.com/logos/symfony_black_03.png?v=5)
-![Java Logo](/path/to/your/java-logo.png)
+<p align="center">
+  <img src="https://symfony.com/logos/symfony_black_03.png?v=5" width="200" title="Symfony Logo" alt="Symfony Logo">
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="images/java-logo.png" width="200" title="Java Logo" alt="Java Logo">
+</p>
 
 ## Introduction
 
@@ -33,8 +36,4 @@ To get a local copy up and running, follow these simple steps.
 - Composer
 - Java JDK 11 or higher
 
-#### Installation
 
-1. Clone the repository
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git

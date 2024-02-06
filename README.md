@@ -4,7 +4,7 @@
   <img src="https://symfony.com/logos/symfony_black_03.png?v=5" width="200" title="Symfony Logo" alt="Symfony Logo">
   &nbsp; &nbsp; &nbsp; &nbsp;
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="200" /> </a>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="200" /> 
 </p>
 
 
